@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Data Analytics at Masterschool.
-- 💬 Ask me about Data Vizualization and SQL learning resources.
-- 📫 Reach me here or on my LinkedIn/
+- 🌱 I’m currently learning Data Analytics at Masterschool
+- 💬 Ask me about Data Vizualization and SQL learning resources
+- 📫 Reach me here or on my LinkedIn
 
 <!--
 **olelina/olelina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
